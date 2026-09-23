@@ -1,1 +1,0 @@
-Temporary test file to verify GitHub commit author attribution before uploading the project.

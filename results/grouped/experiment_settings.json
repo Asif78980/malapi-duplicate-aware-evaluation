@@ -1,0 +1,20 @@
+{
+  "samples": 7107,
+  "classes": [
+    "Adware",
+    "Backdoor",
+    "Downloader",
+    "Dropper",
+    "Spyware",
+    "Trojan",
+    "Virus",
+    "Worms"
+  ],
+  "split_method": "StratifiedGroupKFold",
+  "number_of_folds": 5,
+  "random_state": 42,
+  "grouping": "SHA256 of full API sequence",
+  "sequence_length_limit": null,
+  "conflicting_labels": "Retained as supplied",
+  "sklearn_version": "1.6.1"
+}

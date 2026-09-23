@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+*.joblib
+*.pkl
+data/
+malapi_work/
+mal-api-2019*.zip

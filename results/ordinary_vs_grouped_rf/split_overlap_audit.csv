@@ -1,0 +1,11 @@
+Split,Fold,Training samples,Test samples,Shared sequence groups,Test samples with sequence in training,Overlap test percentage
+Ordinary,1,5685,1422,122,165,11.60337552742616
+Grouped,1,5688,1419,0,0,0.0
+Ordinary,2,5685,1422,113,159,11.181434599156118
+Grouped,2,5660,1447,0,0,0.0
+Ordinary,3,5686,1421,111,145,10.204081632653061
+Grouped,3,5709,1398,0,0,0.0
+Ordinary,4,5686,1421,110,158,11.11893033075299
+Grouped,4,5678,1429,0,0,0.0
+Ordinary,5,5686,1421,128,161,11.330049261083744
+Grouped,5,5693,1414,0,0,0.0

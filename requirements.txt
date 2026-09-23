@@ -1,0 +1,9 @@
+# Recorded scikit-learn version; other original versions were not captured.
+# google.colab is provided by the Colab runtime.
+scikit-learn==1.6.1
+numpy
+pandas
+scipy
+xgboost
+matplotlib
+joblib

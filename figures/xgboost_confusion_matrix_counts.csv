@@ -1,0 +1,9 @@
+Actual,Adware,Backdoor,Downloader,Dropper,Spyware,Trojan,Virus,Worms
+Adware,284,5,21,27,11,18,5,8
+Backdoor,2,686,29,41,56,119,10,58
+Downloader,5,24,758,56,29,74,9,46
+Dropper,4,24,33,596,97,81,12,44
+Spyware,2,73,35,113,439,81,12,77
+Trojan,4,103,81,80,62,537,31,103
+Virus,1,13,6,27,22,44,839,49
+Worms,1,69,31,51,66,99,32,652
